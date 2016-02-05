@@ -1,10 +1,10 @@
 
 
 def get_emoji(nazwa):
-	if nazwa == "wesoly":
-	    return(":-)")
-	elif nazwa == "smutny":
-	    return(":-(")
+    if nazwa == "wesoly":
+        return(":-)")
+    elif nazwa == "smutny":
+        return(":-(")
 
 
 if __name__ == '__main__':
